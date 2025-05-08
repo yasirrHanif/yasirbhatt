@@ -51,7 +51,7 @@
 * Gmail: [yb630261@gmail.com](mailto:yb630261@gmail.com)
 * Phone: +92 346 5512738
 * LinkedIn: [Muhammad Yasir](https://www.linkedin.com/in/muhammadyasirdata/)
-* GitHub: [@yourusername](https://github.com/yourusername)
+* GitHub: [@yourusername](https://github.com/yasirbhatt)
 
 ---
 
@@ -62,4 +62,4 @@
 * ⏳ Publish a real-time Flask-based web app
 * 💼 Land a role in Data Science or ML Engineering
 
----
+

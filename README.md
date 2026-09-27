@@ -1,80 +1,111 @@
 # Hi, I'm Muhammad Yasir 👋
 
-**Data Scientist | Machine Learning Enthusiast | Problem Solver**
+Data Scientist | AI/ML Enthusiast | Problem Solver
 
-I'm a passionate Data Scientist with expertise in building intelligent solutions using machine learning and data analytics. Currently working at **AMGOC US LLC** to drive insights from data and build scalable AI solutions.
+I am a data-driven professional focused on building intelligent systems, machine learning solutions, and analytics workflows that create real-world impact. I recently started my professional journey as a Data Scientist at AMGOC US LLC and continue to develop strong expertise in AI, ML, NLP, and predictive modeling.
 
----
-
-## 💼 Professional Experience
-
-### **Data Scientist** @ AMGOC US LLC
-**June 2026 – Present**
-- Developing machine learning models for business intelligence and predictive analytics
-- Building data pipelines and ETL processes for large-scale datasets
-- Collaborating with cross-functional teams to deliver data-driven solutions
-- Optimizing algorithms and improving model performance
-
-### **Education**
-- **Bachelor's Degree** | GCUF (Government College University Faisalabad)
+- 🔭 Currently working: Data Scientist at AMGOC US LLC
+- 🌱 Learning: Advanced ML, NLP, Deep Learning, RAG, and AI-powered applications
+- 💼 Focus: Data science, analytics, AI automation, model deployment
+- 📍 Education: Graduate from GCUF (Government College University Faisalabad)
+- 📫 Email: myasirrh@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/muhammad-yasir-a46abb273
+- 🧠 GitHub: https://github.com/yasirrHanif
 
 ---
 
-## 🔧 Technical Skills
+## Professional Experience
 
-**Languages & Libraries:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**ML & Data Science:**
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-
-**Tools & Platforms:**
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### Data Scientist | AMGOC US LLC
+June 2026 – Present
+- Building and improving data-driven AI and ML solutions
+- Working with large datasets for analysis, feature engineering, and model development
+- Supporting business decision-making through predictive analytics and intelligent systems
+- Collaborating on AI-powered workflows and data-centric problem solving
 
 ---
 
-## 🌟 What I'm Currently Doing
+## Education
 
-- 🔭 Building machine learning models at AMGOC US LLC
-- 🌱 Deepening expertise in Deep Learning and NLP
-- 💼 Exploring opportunities in AI/ML engineering
-- 📊 Working on data analytics and visualization projects
+### Bachelor’s Degree
+Government College University Faisalabad (GCUF)
 
 ---
 
-## 📌 Featured Projects
+## Technical Skills
 
-Check out my repositories for code examples, ML projects, and data science implementations.
+### Programming & Data Tools
+- Python
+- SQL
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebook
+- Git & GitHub
+
+### AI / Machine Learning
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+- Computer Vision
+- Predictive Analytics
+- Data Cleaning & Feature Engineering
+- Model Evaluation & Optimization
+
+### Emerging Technologies
+- Generative AI
+- Retrieval-Augmented Generation (RAG)
+- AI Assistants
+- Data pipelines and automation
 
 ---
 
-## 📊 GitHub Stats
+## Featured Projects
 
-[![Yasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasirrHanif&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/yasirrHanif)
+### 1. Visions Pipeline Backend
+A backend-focused project designed for pipeline processing and structured data workflows in an AI-driven environment.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasirrHanif&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/yasirrHanif)
+Repository: https://github.com/rizjaved8949/Visions-Pipeline-Backend
+
+### 2. Deep Fake Video Detection Using Multi-Model Approach
+A deep learning project focused on detecting manipulated or deep fake videos using multi-model analysis techniques.
+
+Repository: https://github.com/yasirrHanif/deep-fake-videos-detection-by-using-multimodel-
+
+### 3. Urdu News Intelligence Hub
+An NLP and intelligence-focused project centered around Urdu news analysis, mining, and information extraction.
+
+Repository: https://github.com/yasirrHanif/urdu_news_intelligence-Hub
+
+### 4. AI Assistant for Bot-Protected Websites and Translation
+An AI-powered assistant for scraping bot-protected websites, transcribing YouTube videos, and translating text/voice with OpenAI integration and multi-language adaptability.
+
+Repository: https://github.com/yasirrHanif/Ai_Assistant-for-bot-protected-websites-and-translation
+
+### 5. RAG Project
+A Retrieval-Augmented Generation (RAG) project focused on integrating retrieval with AI generation for smart information responses.
+
+Repository: https://github.com/yasirrHanif/rag
+
+### 6. HR Work Force Analytics
+A workforce analytics project focused on exploring employee patterns, HR insights, and data-driven decision-making.
+
+Repository: https://github.com/rizjaved8949/HR-Work-Force-
 
 ---
 
-## 📫 Get in Touch
+## GitHub Stats
 
-- 💼 **LinkedIn**: [Add your LinkedIn URL]
-- 📧 **Email**: [Add your email]
-- 🌐 **Portfolio**: [Add your portfolio URL]
-- 💬 **GitHub**: [@yasirrHanif](https://github.com/yasirrHanif)
+[![Muhammad Yasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasirrHanif&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/yasirrHanif)
 
----
-
-> *"Data is the new oil. I'm passionate about extracting insights and building intelligent solutions that drive real-world impact."*
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasirrHanif&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/yasirrHanif)
 
 ---
 
-**Last Updated:** September 2026 | Profile maintained with ❤️
+## Profile Summary
+
+> “I’m passionate about turning data into decisions and intelligence into practical solutions. My work focuses on AI, machine learning, and data-driven innovation with real business impact.”
+
+---
+
+Built with passion for data, AI, and problem-solving.

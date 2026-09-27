@@ -2,12 +2,13 @@
 
 Data Scientist | AI/ML Enthusiast | Problem Solver
 
-I am a data-driven professional focused on building intelligent systems, machine learning solutions, and analytics workflows that create real-world impact. I recently started my professional journey as a Data Scientist at AMGOC US LLC and continue to develop strong expertise in AI, ML, NLP, and predictive modeling.
+I am a data-driven professional focused on building intelligent systems, machine learning solutions, and analytics workflows that create real-world impact. Currently pursuing my Master's in Data Science at PUCIT while working as a Data Scientist at AMGOC US LLC to drive insights from data and build scalable AI solutions.
 
 - 🔭 Currently working: Data Scientist at AMGOC US LLC
+- 📚 Currently studying: MS Data Science at PUCIT (2026-2027)
 - 🌱 Learning: Advanced ML, NLP, Deep Learning, RAG, and AI-powered applications
 - 💼 Focus: Data science, analytics, AI automation, model deployment
-- 📍 Education: Graduate from GCUF (Government College University Faisalabad)
+- 📍 Education: Bachelor's from GCUF (Government College University Faisalabad)
 - 📫 Email: myasirrh@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/muhammad-yasir-a46abb273
 - 🧠 GitHub: https://github.com/yasirrHanif
@@ -27,8 +28,12 @@ June 2026 – Present
 
 ## Education
 
-### Bachelor’s Degree
-Government College University Faisalabad (GCUF)
+### Master of Science in Data Science
+**PUCIT (Punjab University College of Information Technology)**
+2026 – 2027
+
+### Bachelor's Degree
+**Government College University Faisalabad (GCUF)**
 
 ---
 
@@ -104,7 +109,7 @@ Repository: https://github.com/rizjaved8949/HR-Work-Force-
 
 ## Profile Summary
 
-> “I’m passionate about turning data into decisions and intelligence into practical solutions. My work focuses on AI, machine learning, and data-driven innovation with real business impact.”
+> "I'm passionate about turning data into decisions and intelligence into practical solutions. My work focuses on AI, machine learning, and data-driven innovation with real business impact."
 
 ---
 
